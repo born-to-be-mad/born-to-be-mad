@@ -4,6 +4,9 @@
 
 I'm a software Craftman from Belarus, living in Vilnius and currently working at Epam Systems.
 
+![Oracle Certified Associate, Java SE 8 Programmer](https://www.credly.com/badges/ac08f16e-1619-4b92-b147-4ce99e951273)
+![AWS Certified Cloud Practitioner](https://www.credly.com/badges/c3d6ed01-9813-4870-8769-6f3e1019eaa1)
+
 📫 How to reach me:
 - [Facebook](https://www.facebook.com/dzmitry.marudau) 😏
 - [Twitter](https://twitter.com/DzmitryMarudau) 🐤
