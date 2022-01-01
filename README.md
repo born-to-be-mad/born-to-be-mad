@@ -2,16 +2,19 @@
 
 ## Hello, IT fans! My name is Dzmitry Marudau. 👋🤓
 
-I'm a software Craftman from Belarus born to be driven by Java, living in Vilnius and currently working at Epam Systems.
+I'm a software Craftsman from Belarus born to be driven by Java, living in Vilnius and currently working at Epam Systems.
 
-<a href="https://www.credly.com/badges/c3d6ed01-9813-4870-8769-6f3e1019eaa1">
-<img src="https://images.credly.com/size/340x340/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png" width="150" alt="AWS Certified Cloud Practitioner">
+<a href="https://www.credly.com/badges/6f3c8217-c67d-4aa6-b7f7-41fe7cf1bac4">
+<img src="https://images.credly.com/size/340x340/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" width="150" alt="AWS Certified Cloud Practitioner">
 </a>
 
 <a href="https://images.credly.com/size/340x340/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png">
 <img src="https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" width="150" alt="Oracle Certified Associate, Java SE 8 Programmer">
 </a>
 
+<a href="https://www.credly.com/badges/c3d6ed01-9813-4870-8769-6f3e1019eaa1">
+<img src="https://images.credly.com/size/340x340/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png" width="150" alt="AWS Certified Cloud Practitioner">
+</a>
 
 📫 How to reach me:
 - [Facebook](https://www.facebook.com/dzmitry.marudau) 😏
