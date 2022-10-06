@@ -4,17 +4,22 @@
 
 I'm a software Craftsman from Belarus born to be driven by Java, living in Vilnius and currently working at Epam Systems.
 
+<a href="https://www.credly.com/badges/4cacf852-50b8-4226-a492-aeae63deee17">
+<img src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" width="150" alt="AWS Partner: Accreditation (Technical)">
+</a>
+
 <a href="https://www.credly.com/badges/6f3c8217-c67d-4aa6-b7f7-41fe7cf1bac4">
-<img src="https://images.credly.com/size/340x340/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" width="150" alt="AWS Certified Cloud Practitioner">
+<img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="150" alt="AWS Certified Developer – Associate">
 </a>
 
-<a href="https://images.credly.com/size/340x340/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png">
-<img src="https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" width="150" alt="Oracle Certified Associate, Java SE 8 Programmer">
+<a href="https://www.credly.com/badges/e54b1b6d-aa24-4783-a1ea-8f133084c972">
+<img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Cloud Practitioner">
 </a>
 
-<a href="https://www.credly.com/badges/c3d6ed01-9813-4870-8769-6f3e1019eaa1">
-<img src="https://images.credly.com/size/340x340/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png" width="150" alt="AWS Certified Cloud Practitioner">
+<a href="https://www.credly.com/earner/earned/badge/ac08f16e-1619-4b92-b147-4ce99e951273">
+<img src="https://images.credly.com/size/340x340/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png" width="150" alt="Oracle Certified Associate, Java SE 8 Programmer">
 </a>
+
 
 📫 How to reach me:
 - [Facebook](https://www.facebook.com/dzmitry.marudau) 😏
