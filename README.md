@@ -4,6 +4,10 @@
 
 I'm a software Craftsman from Belarus born to be driven by Java, living in Vilnius and currently working at Epam Systems.
 
+<a href="https://www.credly.com/badges/5a46aebb-5832-48fb-bb32-a3a191c7b019">
+<img src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" width="150" alt="Well-Architected Proficient">
+</a>
+
 <a href="https://www.credly.com/badges/4cacf852-50b8-4226-a492-aeae63deee17">
 <img src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" width="150" alt="AWS Partner: Accreditation (Technical)">
 </a>
@@ -42,16 +46,16 @@ I'm a software Craftsman from Belarus born to be driven by Java, living in Vilni
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/dma1979/dma1979">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dma1979&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/vinmaster/vinmaster">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinmaster&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/dma1979/dma1979">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dma1979&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/vinmaster/vinmaster">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinmaster&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dzmitry's GitHub Stats" />
 </a>
 
 
 <!--
-**dma1979/dma1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vinmaster/vinmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
