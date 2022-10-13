@@ -46,16 +46,16 @@ I'm a software Craftsman from Belarus born to be driven by Java, living in Vilni
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/vinmaster/vinmaster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinmaster&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/born-to-be-mad/born-to-be-mad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=born-to-be-mad&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/vinmaster/vinmaster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinmaster&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dzmitry's GitHub Stats" />
+<a href="https://github.com/born-to-be-mad/born-to-be-mad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=born-to-be-mad&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dzmitry's GitHub Stats" />
 </a>
 
 
 <!--
-**vinmaster/vinmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**born-to-be-mad/born-to-be-mad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
