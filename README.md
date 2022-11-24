@@ -4,7 +4,7 @@
 
 I'm a software Craftsman from Belarus born to be driven by Java, living in Vilnius and currently working at Epam Systems.
 
-<a href="https://www.credly.com/badges/5a46aebb-5832-48fb-bb32-a3a191c7b019">
+<a href="https://www.credly.com/badges/648e2a6b-b5c5-4bb5-83ac-eb8d9567856c">
 <img src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" width="150" alt="Well-Architected Proficient">
 </a>
 
